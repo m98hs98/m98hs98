@@ -15,23 +15,23 @@
   
 <br>
 <h1 align="center">
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
 
-### Hi there 👋
+
 
 
 
 About me:
 
 - 🔭 I’m currently working on my skills and my portfolio.
-- 🌱 I’m Work on small goals, every single day.
-- 💬 A hardworking person with enthusiasm for developing and Cloud engineering
+- 🌱 I’m working on my planned milestones every single day.
+- 💬 A hardworking person with enthusiasm for developing and Cloud engineering.
 - 📫 mahsahaddadi19@gmail.com
-- 😄 Pronouns: mahsä
+
 
 
 ---
