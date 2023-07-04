@@ -27,10 +27,11 @@
 
 About me:
 
-- 🔭 I’m currently working on my skills and my portfolio.
+- 🔭 I’m currently working on my skills and learning TypeScript.
+- 🔭 I'm passionate about learning any new technologies.
 - 🌱 I’m working on my planned milestones every single day.
 - 💬 A hardworking person with enthusiasm for developing and Cloud engineering.
-- 📫 mahsahaddadi19@gmail.com
+- 📫 mahsadev20@gmail.com
 
 
 
