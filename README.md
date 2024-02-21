@@ -27,7 +27,7 @@
 
 About me:
 
-- 🔭 I’m currently working on my skills and learning TypeScript.
+- 🔭 I’m currently working on my skills and learning Firebase.
 - 🔭 I'm passionate about learning any new technologies.
 - 🌱 I’m working on my planned milestones every single day.
 - 💬 A hardworking person with enthusiasm for developing and Cloud engineering.
